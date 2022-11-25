@@ -1,7 +1,7 @@
 .header__lang-menu {
-    display: flex;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    gap: 18px;
-  }
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  gap: 18px;
+}
